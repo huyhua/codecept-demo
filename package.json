@@ -1,0 +1,19 @@
+{
+  "name": "codecept-demo",
+  "version": "1.0.0",
+  "description": "demo test using codecept",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "keywords": [
+    "codecept",
+    "puppeteer"
+  ],
+  "author": "huyhua@nvg.vn",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.3.4",
+    "puppeteer": "^15.4.0"
+  }
+}
